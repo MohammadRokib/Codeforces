@@ -8,7 +8,8 @@ int main() {
     scanf("%d", &t);
 
     while(t--) {
-        //
+        int a, b;
+        scanf("%d %d", &a, &b);
     }
     return 0;
 }
